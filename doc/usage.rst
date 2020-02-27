@@ -7,7 +7,8 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+.. code-block:: git
+    git clone https://github.com/torhaugl/word-count-example
 
 
 Make
